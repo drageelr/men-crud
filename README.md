@@ -7,7 +7,11 @@ MongoDB + Express + Node CRUD Application.
 3. `mongoose`
 4. `@hapi/joi`
 
-To install these dependancies, run the following command in the root directory:
-`npm i <package_name>`
-
 ---
+
+## Run:
+To run the node application, run the following commands in the root directory:
+```
+npm install //only if running for the first time
+npm start
+```
